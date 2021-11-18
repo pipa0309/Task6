@@ -1,3 +1,4 @@
+//forCheck
 package HomeTaskSix;
 
 public class HomeWorkAppSix {
